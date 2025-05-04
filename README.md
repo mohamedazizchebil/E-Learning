@@ -25,6 +25,8 @@ Une plateforme web de gestion de formations en Java EE. Elle permet aux utilisat
 
 ## 🗂️ Structure du projet
 
+
+```
 src/
 ├── main/
 │ ├── java/
@@ -37,6 +39,7 @@ src/
 │ ├── WEB-INF/web.xml # Fichier de configuration
 │ └── *.jsp # Pages JSP (login.jsp, admin.jsp, etc.)
 
+```
 
 
 ## ⚙️ Installation
