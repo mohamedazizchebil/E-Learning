@@ -10,14 +10,10 @@ Une plateforme web de gestion de formations en Java EE. Elle permet aux utilisat
 - Inscription à une formation
 - Visualisation de ses inscriptions
 
-### 👩‍🏫 Formateurs
-- Connexion à leur espace dédié
-- Gestion de leurs propres formations (ajout, édition, suppression)
 
 ### 👨‍💼 Administrateur
 - Gestion des formateurs
 - Gestion des formations
-- Suivi des inscriptions
 
 ## 🧱 Technologies utilisées
 
